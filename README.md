@@ -1,6 +1,7 @@
 ## Hi there! I'm Sujith Roshan, AKA [MusicViking](https://github.com/MusicViking) 👋
 
-### I'm a Student and I love Coding ❤️
+## I'm a Student!
+
 - 🔭 I like to explore new stuff and always open to suggestions!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
