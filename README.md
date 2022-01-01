@@ -13,4 +13,4 @@
 <img align="left" alt="Visual Studio Code" width="40px" src="/Images/vscode.png" />
 <img align="left" alt="Python" width="30px" src="/Images/python.png" />
 <img align="left" alt="C++" width="26px" src="/Images/cpp.png" />
-<img align="left" alt="Replit" width="26px" src="/Images/replit.png" />
+<img align="left" alt="Replit" width="40px" src="/Images/replit.png" />
