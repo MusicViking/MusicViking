@@ -1,4 +1,4 @@
-### Hello there, I'm Sujith Roshan, AKA [MusicViking](https://github.com/MusicViking)👋 
+### Hello there! I'm Sujith Roshan, AKA [MusicViking](https://github.com/MusicViking)👋 
 
 ## I'm a Student!!
 
