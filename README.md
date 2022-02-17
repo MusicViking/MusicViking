@@ -13,3 +13,7 @@ AKA [MusicViking](https://github.com/MusicViking) 👋
 
 ![](https://img.icons8.com/color/64/000000/python.png) 
 ![](https://img.icons8.com/color/64/000000/c-plus-plus-logo.png)
+![](https://img.icons8.com/color/64/000000/java.png)
+![](https://img.icons8.com/color/64/000000/c.png)
+![](https://img.icons8.com/color/64/000000/mysql--v1.png)
+![](https://img.icons8.com/color/64/000000/visual-studio-code-2019.png)
