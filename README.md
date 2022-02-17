@@ -15,5 +15,7 @@ AKA [MusicViking](https://github.com/MusicViking) 👋
 ![](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![](https://img.icons8.com/color/48/000000/java.png)
 ![](https://img.icons8.com/color/48/000000/c.png)
-![](https://img.icons8.com/external-others-phat-plus/64/000000/external-database-browser-and-interface-outline-others-phat-plus-3.png)
+![](https://img.icons8.com/external-others-phat-plus/48/000000/external-connection-browser-and-interface-blue-others-phat-plus-6.png)
+
 ![](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png)
