@@ -11,6 +11,9 @@ AKA [MusicViking](https://github.com/MusicViking) 👋
 
 ### Languages and Tools:
 
+![](https://img.icons8.com/color/64/000000/python.png) 
+![](https://img.icons8.com/color/64/000000/c.png)  
+![](https://img.icons8.com/color/64/000000/c-plus-plus-logo.png)
 <img align="left" alt="Visual Studio Code" width="40px" src="/Images/vscode.png" />
 <img align="left" alt="Python" width="30px" src="/Images/python.png" />
 <img align="left" alt="C++" width="30px" src="/Images/cpp.png" />
