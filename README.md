@@ -18,4 +18,4 @@ AKA [MusicViking](https://github.com/MusicViking) 👋
 ![](https://img.icons8.com/external-others-phat-plus/48/000000/external-connection-browser-and-interface-blue-others-phat-plus-6.png)
 
 ![](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png)
+<img alt="replit" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" />
