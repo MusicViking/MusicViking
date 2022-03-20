@@ -21,4 +21,4 @@ AKA [MusicViking](https://github.com/MusicViking) 👋
 <img alt="replit" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" />
 ![](https://img.icons8.com/color/48/000000/google-cloud.png)
 ![](https://img.icons8.com/office/48/000000/java-eclipse.png)
-![](https://img.icons8.com/fluency/48/000000/jupyter.png)
+![](https://img.icons8.com/color/48/000000/jupyter.png)
