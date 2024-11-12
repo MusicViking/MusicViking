@@ -6,7 +6,6 @@ AKA [MusicViking](https://github.com/MusicViking) 👋
 - 🔭 I like to explore new stuff and always open to suggestions!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about open source
 - ⚡ Fun fact: In case you didn't notice my username, I love to listen to some music 😜
 
 ### Languages and Tools:
